@@ -1,6 +1,6 @@
 # EDA-for-Customer-Churning
 
-**Conclusion:**
+ 
 
 1. **Customer Churn Overview**: Approximately 14.5% of customers have churned out, while 85.5% are retained, indicating a relatively stable customer base. The churn rate raises concerns for potential negative growth, emphasizing the need to address underlying issues causing attrition.
 
